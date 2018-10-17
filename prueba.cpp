@@ -1,6 +1,7 @@
 #include <iostream>
 #include <conio.h>
 #include <string.h>
+
 using namespace std;
 
 class CAlumno{
@@ -16,5 +17,6 @@ int main(){
 	cout<<"Prueba"<<endl;
 	CAlumno Andy ;
 	cout<<Andy.getNombre();
+	//comentario
 	return 0;
 }
