@@ -18,6 +18,6 @@ int main(){
 	CAlumno Andy ;
 	cout<<Andy.getNombre();
 	//peru
-	//comentario
+	//comen
 	return 0;
 }
