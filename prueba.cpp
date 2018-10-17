@@ -17,6 +17,7 @@ int main(){
 	cout<<"Prueba"<<endl;
 	CAlumno Andy ;
 	cout<<Andy.getNombre();
+	//peru
 	//comentario
 	return 0;
 }
